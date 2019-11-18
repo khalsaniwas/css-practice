@@ -1,1 +1,28 @@
 @import '~bootstrap/scss/bootstrap';
+
+.navbar {
+  background-color: rgb(57, 222, 191);
+}
+
+.nav-link {
+  font-size: 20px;
+  font-weight: 600;
+  color: rgb(255, 255, 255);
+}
+
+.btn {
+  background: rgb(82, 82, 250);
+  color: white;
+}
+
+.search-form {
+  padding: 40px
+}
+
+div.container {
+  border-radius: 5px;
+  padding: 5px 3px;
+  margin: 2px;
+  width: 100%;
+  border: 0.5px solid black;
+}
